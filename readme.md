@@ -32,13 +32,13 @@ For detail documentation and code you can go [here](https://github.com/indobench
 Below is explaination to use or modify this project.
 
 ### Directories Explaination
-&nbsp;--dataset/
-&nbsp;&nbsp;--news_category/
-&nbsp;&nbsp;--smsa_doc-sentiment-prosa/
-&nbsp;--model/
-&nbsp;--notebook/
-&nbsp;--utils/
-&nbsp;classifier.py
+&nbsp;--dataset/ </br>
+&nbsp;&nbsp;--news_category/ </br>
+&nbsp;&nbsp;--smsa_doc-sentiment-prosa/ </br>
+&nbsp;--model/ </br>
+&nbsp;--notebook/ </br>
+&nbsp;--utils/ </br>
+&nbsp;classifier.py </br>
 
 - dataset folder contains news and sentiment dataset. For the sentiment dataset, we use dataset from indoNLU. But for the news category we use Kompas.com news index. You can change with your own dataset.
 - model folder contains 2 binary file which are model for sentiment analysis and model for category classification.
